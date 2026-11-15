@@ -47,6 +47,7 @@ Sebelum mulai merancang, mengedit, atau menguji aplikasi di MIT App Inventor, pa
 
 ## 📂 Struktur Folder Proyek
 Berikut adalah rancangan struktur direktori yang digunakan dalam proyek ini:
+
 ```text
 Prototype-Mit-Inventor/
 │
