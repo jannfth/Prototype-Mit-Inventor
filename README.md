@@ -27,7 +27,7 @@ Seluruh file disimpan langsung pada *root* direktori repositori ini:
 
 | Pembuatan Website (Designer / Blocks) | Pengujian di Perangkat (Mobile App) |
 | :---: | :---: |
-| <img src="Pembuatan.jpeg" width="350" alt="Web Test"> | <img src="TestDiHP.png" width="220" alt="App Test"> |
+| <img src="TestDiPC.jpeg" width="350" alt="Web Test"> | <img src="TestDiHP.jpeg" width="220" alt="App Test"> |
 
 ## 🚀 Cara Mencoba Aplikasi
 1. **Jika menggunakan file `.apk`:**
