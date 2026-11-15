@@ -21,6 +21,12 @@ Seluruh file disimpan langsung pada *root* direktori repositori ini:
 - 🖼️ **Screenshot Pengujian Web** — Dokumentasi tampilan *Designer* & *Blocks* saat proses pengembangan di web MIT App Inventor.
 - 📸 **Screenshot Pengujian Aplikasi** — Bukti tampilan antarmuka dan fungsionalitas saat aplikasi dijalankan di smartphone.
 
+## 📋 Prasyarat Pembuatan
+Sebelum mulai merancang, mengedit, atau menguji aplikasi di MIT App Inventor, pastikan kamu telah menyiapkan beberapa hal berikut:
+* **Akun Google:** Diperlukan untuk masuk ke platform [MIT App Inventor](https://appinventor.mit.edu/).
+* **Perangkat Pengujian:** Menggunakan *MIT AI2 Companion* yang diunduh ke HP Android melalui Play Store, atau menggunakan emulator bawaan di komputer.
+* **Koneksi Internet:** Karena MIT App Inventor berjalan secara berbasis web (*cloud-based*).
+
 ## 📸 Galeri Pengujian
 
 > 💡 *Tips: Ganti nama file gambar di bawah ini sesuai dengan nama file screenshot yang kamu upload ke repositori agar gambarnya langsung muncul di halaman depan GitHub!*
@@ -42,3 +48,12 @@ Seluruh file disimpan langsung pada *root* direktori repositori ini:
 <div align="center">
 Dibuat oleh <a href="https://github.com/jannfth">jannfth</a> menggunakan MIT App Inventor.
 </div>
+
+```text
+Prototype-Mit-Inventor/
+│
+├── Test.png                 # Screenshot / preview tampilan aplikasi
+├── assets/                  # Folder penyimpanan aset (gambar, ikon, atau media)
+├── src/                     # Berkas sumber atau file proyek (.aia / source code)
+├── .gitignore               # Berkas pengecualian Git
+└── README.md                # Dokumentasi proyek
