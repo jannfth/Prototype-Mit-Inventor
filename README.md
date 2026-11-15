@@ -25,9 +25,9 @@ Seluruh file disimpan langsung pada *root* direktori repositori ini:
 
 > 💡 *Tips: Ganti nama file gambar di bawah ini sesuai dengan nama file screenshot yang kamu upload ke repositori agar gambarnya langsung muncul di halaman depan GitHub!*
 
-| Pengujian di Website (Designer / Blocks) | Pengujian di Perangkat (Mobile App) |
+| Pembuatan Website (Designer / Blocks) | Pengujian di Perangkat (Mobile App) |
 | :---: | :---: |
-| <img src="Tes Web.jpeg" width="350" alt="Web Test"> | <img src="Test HP.png" width="220" alt="App Test"> |
+| <img src="Pembuatan.jpeg" width="350" alt="Web Test"> | <img src="TestDiHP.png" width="220" alt="App Test"> |
 
 ## 🚀 Cara Mencoba Aplikasi
 1. **Jika menggunakan file `.apk`:**
