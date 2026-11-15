@@ -45,10 +45,6 @@ Sebelum mulai merancang, mengedit, atau menguji aplikasi di MIT App Inventor, pa
 
 ---
 
-<div align="center">
-Dibuat oleh <a href="https://github.com/jannfth">jannfth</a> menggunakan MIT App Inventor.
-</div>
-
 ## 📂 Struktur Folder Proyek
 Berikut adalah rancangan struktur direktori yang digunakan dalam proyek ini:
 ```text
