@@ -1,28 +1,44 @@
 <div align="center">
 
-# 🚀 Prototype MIT App Inventor
+# 📱 Prototype MIT App Inventor
 
-[![MIT App Inventor](https://img.shields.io/badge/Platform-MIT%20App%20Inventor-orange?style=for-the-badge&logo=app-inventor)](https://appinventor.mit.edu/)
-[![Status](https://img.shields.io/badge/Status-Active%20Prototype-success?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-MIT%20App%20Inventor-orange?style=for-the-badge&logo=app-inventor)](https://appinventor.mit.edu/)
+[![File](https://img.shields.io/badge/Release-APK%20%2F%20AIA-brightgreen?style=for-the-badge)]()
+[![Testing](https://img.shields.io/badge/Status-Tested%20on%20Web%20%26%20Mobile-blue?style=for-the-badge)]()
 
-*Sebuah proyek prototipe aplikasi mobile interaktif yang dibangun menggunakan platform **MIT App Inventor**.*
+*Dokumentasi pengujian prototipe dan rilis file aplikasi yang dikembangkan menggunakan **MIT App Inventor**.*
 
 </div>
 
 ---
 
-## 📖 Tentang Proyek
-Repositori ini berisi kode sumber dan file aset (`.aia`) untuk prototipe aplikasi yang dikembangkan menggunakan **MIT App Inventor**. Proyek ini dirancang untuk mengeksplorasi fungsionalitas blok logika visual, antarmuka pengguna (UI/UX) mobile, serta integrasi fitur-fitur perangkat dalam satu ekosistem pengembangan yang cepat dan efisien.
+## 📖 Tentang Repositori
+Repositori ini berfungsi sebagai arsip prototipe aplikasi mobile yang dibuat dengan **MIT App Inventor**. Di dalamnya terdapat file instalasi/proyek aplikasi beserta dokumentasi visual (*screenshot*) hasil pengujian antarmuka (*designer*) di website maupun hasil running langsung pada perangkat mobile.
 
-## ✨ Fitur Utama
-- **Antarmuka Intuitif:** Desain tata letak yang bersih dan ramah pengguna (*user-friendly*).
-- **Logika Berbasis Blok:** Implementasi alur kerja dan fungsi aplikasi menggunakan *visual block programming*.
-- **Kompatibilitas Luar Biasa:** Diuji dan dioptimalkan untuk berjalan mulus di berbagai perangkat Android.
+## 📂 Isi Repositori
+Seluruh file disimpan langsung pada *root* direktori repositori ini:
+- 📄 **File Aplikasi (`.apk` / `.aia`)** — File mentah proyek MIT App Inventor atau paket instalasi Android yang siap dijalankan.
+- 🖼️ **Screenshot Pengujian Web** — Dokumentasi tampilan *Designer* & *Blocks* saat proses pengembangan di web MIT App Inventor.
+- 📸 **Screenshot Pengujian Aplikasi** — Bukti tampilan antarmuka dan fungsionalitas saat aplikasi dijalankan di smartphone.
 
-## 📂 Struktur Repositori
-```text
-📦 Prototype-Mit-Inventor
- ┣ 📂 assets         # Kumpulan aset gambar, ikon, atau media pendukung
- ┣ 📂 source         # File sumber utama proyek (.aia)
- ┗ 📜 README.md      # Dokumentasi proyek
+## 📸 Galeri Pengujian
+
+> 💡 *Tips: Ganti nama file gambar di bawah ini sesuai dengan nama file screenshot yang kamu upload ke repositori agar gambarnya langsung muncul di halaman depan GitHub!*
+
+| Pengujian di Website (Designer / Blocks) | Pengujian di Perangkat (Mobile App) |
+| :---: | :---: |
+| <img src="nama-file-screenshot-web.png" width="350" alt="Web Test"> | <img src="nama-file-screenshot-app.png" width="220" alt="App Test"> |
+
+## 🚀 Cara Mencoba Aplikasi
+1. **Jika menggunakan file `.apk`:**
+   - Unduh file `.apk` yang tersedia di repositori ini langsung melalui perangkat Android.
+   - Instal aplikasi (aktifkan izin *"Install from Unknown Sources"* jika diminta) dan jalankan.
+2. **Jika menggunakan file `.aia`:**
+   - Unduh file `.aia` dari repositori ini.
+   - Buka [MIT App Inventor](https://appinventor.mit.edu/), pilih **Projects** > **Import project (.aia) from my computer**, lalu unggah file tersebut.
+
+---
+
+<div align="center">
+Dibuat oleh <a href="https://github.com/jannfth">jannfth</a> menggunakan MIT App Inventor.
+</div>
